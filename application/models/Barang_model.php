@@ -17,8 +17,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Barang_model extends CI_Model{
 
-  private $table = 'tbl_barang';
-  private $id = 'tbl_barang.id';
+  private $table = 'tbl_goods';
+  private $id = 'tbl_goods.id';
 
   function get_all()
   {
