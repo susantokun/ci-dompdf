@@ -26,7 +26,7 @@
 								<?=$row->name?>
 							</td>
 							<td style="text-align:right">
-								<?=$row->price?>
+								<?=rupiah($row->price)?>
 							</td>
 						</tr>
 				<?php endforeach; ?>

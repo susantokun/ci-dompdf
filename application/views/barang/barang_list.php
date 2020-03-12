@@ -41,7 +41,7 @@
 								<?=$row->name?>
 							</td>
 							<td>
-								<?=$row->price?>
+								<?=rupiah($row->price)?>
 							</td>
 						</tr>
 						<?php endforeach; ?>
