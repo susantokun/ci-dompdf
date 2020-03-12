@@ -1,19 +1,22 @@
 <?php
-#===================================================|
-# Please DO NOT modify this information :			      |
-#---------------------------------------------------|
-# @Author 		: Susantokun
-# @Date 		  : 2018-12-18T11:49:28+07:00
-# @Email 		  : susantokun.com@gmail.com
-# @Project 		: CodeIgniter
-# @Filename 	: Barang.php
-# @Instagram 	: susantokun
-# @Website 		: http://www.susantokun.com
-# @Youtube 		: http://youtube.com/susantokun
-# @Last modified time: 2018-12-18T17:14:11+07:00
-#===================================================|
-
 defined('BASEPATH') OR exit('No direct script access allowed');
+
+/*
+ * |==============================================================|
+ * | Please DO NOT modify this information :                      |
+ * |--------------------------------------------------------------|
+ * | Author          : Susantokun
+ * | Email           : admin@susantokun.com
+ * | Filename        : Barang.php
+ * | Instagram       : @susantokun
+ * | Blog            : http://www.susantokun.com
+ * | Info            : http://info.susantokun.com
+ * | Demo            : http://demo.susantokun.com
+ * | Youtube         : http://youtube.com/susantokun
+ * | File Created    : Thursday, 12th March 2020 9:33:56 pm
+ * | Last Modified   : Thursday, 12th March 2020 9:54:10 pm
+ * |==============================================================|
+ */
 
 class Barang extends CI_Controller{
 
