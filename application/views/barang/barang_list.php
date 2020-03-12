@@ -38,10 +38,10 @@
 								<?=$no++?>
 							</th>
 							<td>
-								<?=$row->nama?>
+								<?=$row->name?>
 							</td>
 							<td>
-								<?=$row->harga?>
+								<?=$row->price?>
 							</td>
 						</tr>
 						<?php endforeach; ?>

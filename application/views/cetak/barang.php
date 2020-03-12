@@ -23,10 +23,10 @@
 								<?=$no++?>
 							</th>
 							<td>
-								<?=$row->nama?>
+								<?=$row->name?>
 							</td>
 							<td style="text-align:right">
-								<?=$row->harga?>
+								<?=$row->price?>
 							</td>
 						</tr>
 				<?php endforeach; ?>
